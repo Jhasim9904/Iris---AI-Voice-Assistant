@@ -1,0 +1,15 @@
+The Iris virtual assistant code uses the following Python packages:
+
+1. `pyttsx3`: A text-to-speech conversion library for Python.
+2. `datetime`: A module for working with dates and times.
+3. `speech_recognition`: A library for performing speech recognition.
+4. `webbrowser`: A module that provides interfaces to open and manipulate web browsers.
+5. `os`: A module for interacting with the operating system, used for file operations.
+6. `random`: A module for generating pseudo-random numbers.
+7. `pyjokes`: A library for fetching programming-related jokes.
+8. `pywhatkit`: A library to automate WhatsApp messages and other functionalities.
+9. `requests`: A library for making HTTP requests.
+10. `pyautogui`: A library for programmatically controlling the mouse and keyboard.
+11. `subprocess`: A module for spawning new processes and interacting with them.
+These packages contribute to various functionalities, 
+including speech synthesis, voice recognition, web browsing, file manipulation, randomization, joke fetching, and more.
